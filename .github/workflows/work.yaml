@@ -13,8 +13,8 @@ on:
     types: started
     
 env:
-  JD_COOKIE: ${{ secrets.JD_COOKIE }}
-  PUSH_KEY: ${{ secrets.PUSH_KEY }}
+  JD_COOKIE: ${{ secrets.pt_key=AAJmVBnNADClqPBb-viXCsQtTWDLtQyn1oYNxco0dhQixbXxCKKDPvibzi227KK7H5alZJ59XMk;  }}
+  PUSH_KEY: ${{ secrets.SCT248917Txts7FVFLzw64UchQGdjqqH3k }}
   UPLOAD_BESULT_DIR: true
 
 jobs:
